@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
