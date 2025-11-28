@@ -21,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sujanayadav2966-byte/Repository-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
